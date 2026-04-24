@@ -1,0 +1,13 @@
+# Data directory
+data/
+.idea/
+
+# IDE files
+*.iml
+.vscode/
+
+
+# OS files
+.DS_Store
+Thumbs.db
+Docker.iml
