@@ -1,15 +1,9 @@
-<<<<<<< HEAD
-=======
+
 <img width="2040" height="529" alt="2" src="https://github.com/user-attachments/assets/9231b148-15ff-4bb6-a1e9-7edd8fb66395" />
 
 <img width="2052" height="1091" alt="1" src="https://github.com/user-attachments/assets/197ae00f-74da-47e0-84dd-abbf9d58d8ad" />
 
 
-
-
-
-
->>>>>>> 055ab581f4361f3bad95d1e99a0effafa5ccb360
 # Домашнее задание к занятию «3.1. Docker»
 
 **Важно**: прежде чем приступать, обязательно прочитайте [руководство по установке Docker](./installation.md).
